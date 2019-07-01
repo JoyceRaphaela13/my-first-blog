@@ -1,1 +1,1 @@
-Django~=2.0.6
+pa_autoconfigure_django.py https://github.com/JoyceRaphaela13/my-first-blog.git
